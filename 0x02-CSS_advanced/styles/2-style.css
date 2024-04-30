@@ -1,8 +1,10 @@
+/* color settings */ 
+
 html {
     scroll-behavior: smooth;
 }
 
-body a {
+body {
     color: #161616;
 }
 
